@@ -25,3 +25,8 @@ print(items)
 # })
 # print(data)
 # data.to_csv('r1.csv')
+class alaki:
+  def tefff:
+    if alaki nabood:
+      print("alaki nist")
+  tamam
